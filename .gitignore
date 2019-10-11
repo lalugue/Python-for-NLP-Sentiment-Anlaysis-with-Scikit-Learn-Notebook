@@ -121,4 +121,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# large files
+text_classifier.sav
+
 # End of https://www.gitignore.io/api/python,jupyternotebooks
